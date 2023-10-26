@@ -2,7 +2,7 @@
 import View from './View.js';
 
 //- import icons
-import icons from 'url:../../img/icons.svg';
+import icons from '../../img/icons.svg';
 //- import fracty
 import fracty from 'fracty';
 

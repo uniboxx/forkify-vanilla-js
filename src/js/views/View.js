@@ -1,5 +1,5 @@
 //- import icons
-import icons from 'url:../../img/icons.svg';
+import icons from '../../img/icons.svg';
 
 export default class View {
   _data;
