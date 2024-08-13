@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "default": "index.html",
   "scripts": {
-    "start": "vite",
+    "dev": "vite",
     "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Davide Pedrotti",
+  "author": "Uniboxx",
   "license": "ISC",
   "description": "Recipe application",
   "devDependencies": {
